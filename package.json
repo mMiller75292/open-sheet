@@ -1,6 +1,6 @@
 {
   "name": "open-sheet",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The spreadsheet framework built for agents \u2014 write the model as React, export a live .xlsx. The third medium, after open-slide and open-doc.",
   "main": "src/index.ts",
   "scripts": {
